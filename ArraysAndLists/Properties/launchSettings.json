@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ArraysAndLists": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
